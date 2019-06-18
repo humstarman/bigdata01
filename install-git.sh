@@ -1,4 +1,3 @@
 #!/bin/bash
 
-apt-get update
-apt-get -y install git
+echo hello world
